@@ -1,0 +1,36 @@
+body{
+  background-color: #FDF3D9;
+}
+.header{
+  background-color: gray;
+  }
+  .footer{
+  background-color:lightgray;
+}
+
+img {
+  padding: 10px;
+}
+
+.btn-default {
+  background-color: #555555;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 20%;
+  }
+  .btn-default:hover {
+    color: #FF00FF;
+}
+
+textarea {
+  width: 100%;
+}
+ul {
+  list-style-type: none;
+}
+li{
+  padding: 4px;
+}
